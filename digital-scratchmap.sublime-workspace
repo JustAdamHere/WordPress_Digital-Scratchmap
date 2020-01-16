@@ -1,0 +1,1744 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_extrapol",
+				"get_extrapolatedErrorValue"
+			],
+			[
+				"CompositeInteg",
+				"CompositeIntegrationSingle"
+			],
+			[
+				"CompositeInte",
+				"CompositeIntegrationSingle"
+			],
+			[
+				"extrapolated",
+				"extrapolatedApproximation"
+			],
+			[
+				"legendrePol",
+				"legendrePolynomialRoots"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"inte",
+				"intent"
+			],
+			[
+				"rea",
+				"realDpToRealDp"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"do",
+				"do\tDo Loop"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"sub",
+				"subroutine"
+			],
+			[
+				"Lege",
+				"LegendrePolynomial"
+			],
+			[
+				"Legen",
+				"LegendrePolynomialDerivative"
+			],
+			[
+				"excepti",
+				"exception\tstandard header"
+			],
+			[
+				"exce",
+				"exception\tstandard header"
+			],
+			[
+				"stdlib",
+				"cstdlib\tstandard header"
+			],
+			[
+				"aVe",
+				"aVector2"
+			],
+			[
+				"vec",
+				"vector2"
+			],
+			[
+				"vecto",
+				"vector2"
+			],
+			[
+				"veco",
+				"vector2"
+			],
+			[
+				"ran",
+				"randomElements"
+			],
+			[
+				"vec1",
+				"vector1"
+			],
+			[
+				"ve",
+				"vector1"
+			],
+			[
+				"de",
+				"deallocateVector"
+			],
+			[
+				"aM",
+				"aMatrix"
+			],
+			[
+				"matrix",
+				"matrixProduct"
+			],
+			[
+				"matri",
+				"matrixProduct"
+			],
+			[
+				"aMatr",
+				"aMatrixProduct"
+			],
+			[
+				"invers",
+				"inverseMatrix"
+			],
+			[
+				"inver",
+				"inverseMatrix"
+			],
+			[
+				"inv",
+				"inverseMatrix"
+			],
+			[
+				"sphin",
+				"sphinx_rtd_theme"
+			],
+			[
+				"Mon",
+				"MonteCarloPi"
+			],
+			[
+				"print",
+				"printNoIterations"
+			],
+			[
+				"Le",
+				"LegendrePolynomialRoot"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"Lee",
+				"LegendrePolynomialRoots"
+			],
+			[
+				"myT",
+				"myTemperature1"
+			],
+			[
+				"temper",
+				"temperature"
+			],
+			[
+				"tempera",
+				"temperatureValue"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"tmp",
+				"temperatureFInt"
+			],
+			[
+				"Cto",
+				"CtoFOffset"
+			],
+			[
+				"C",
+				"CtoFFactor"
+			],
+			[
+				"factorial",
+				"factorial_call"
+			],
+			[
+				"factor",
+				"factorial_call"
+			],
+			[
+				"FreeSpaceIn",
+				"FFreeSpaceInGB"
+			],
+			[
+				"Integer",
+				"IntegerField"
+			],
+			[
+				"FreeMr",
+				"FFreeMemoryInGB"
+			],
+			[
+				"author",
+				"author_name"
+			],
+			[
+				"dates",
+				"dates_updated"
+			],
+			[
+				"all",
+				"all_by_name_query"
+			],
+			[
+				"fundr",
+				"fundraising"
+			],
+			[
+				"random",
+				"random_date"
+			],
+			[
+				"da",
+				"dates_to_use"
+			],
+			[
+				"paid",
+				"paid"
+			],
+			[
+				"pr",
+				"processClick"
+			],
+			[
+				"trans",
+				"transition-property\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"shado",
+				"box-shadow\tproperty"
+			],
+			[
+				"transit",
+				"transition-duration\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"anima",
+				"animation-direction\tproperty"
+			],
+			[
+				"animation-d",
+				"animation-duration\tproperty"
+			],
+			[
+				"eas",
+				"ease-in-out\tanimation-timing-function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"transi",
+				"transition-property\tproperty"
+			],
+			[
+				"dot",
+				"dot"
+			],
+			[
+				"one",
+				"one"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"isP",
+				"isPercentage2"
+			],
+			[
+				"m",
+				"multiply"
+			],
+			[
+				"opera",
+				"operationPressed"
+			],
+			[
+				"user_blowso",
+				"user_blowsoc_role"
+			],
+			[
+				"member",
+				"members"
+			],
+			[
+				"user_blow",
+				"user_blowsoc_role"
+			],
+			[
+				"user_blows",
+				"user_blowsoc_roles"
+			],
+			[
+				"user_blowsoc",
+				"user_blowsoc_roles_all"
+			],
+			[
+				"all_blow",
+				"all_blowsoc_roles"
+			],
+			[
+				"all_user",
+				"all_user_blowsoc_roles"
+			],
+			[
+				"hestia_team",
+				"hestia_team_section"
+			],
+			[
+				"movie",
+				"movie_categories"
+			],
+			[
+				"mvo",
+				"movie_categories"
+			],
+			[
+				"catego",
+				"movie_categories"
+			],
+			[
+				"erro",
+				"error_messages"
+			],
+			[
+				"page_",
+				"page_result"
+			],
+			[
+				"event",
+				"event_result"
+			],
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"database",
+				"database_connection"
+			],
+			[
+				"delet",
+				"delete_query"
+			],
+			[
+				"detle",
+				"delete_query"
+			],
+			[
+				"PASSWORD",
+				"PASSWORD_DEFAULT"
+			],
+			[
+				"pass",
+				"password_hashed"
+			],
+			[
+				"success",
+				"success_message"
+			],
+			[
+				"nu",
+				"number_of_rows"
+			],
+			[
+				"movie_query",
+				"movie_query_text"
+			],
+			[
+				"number",
+				"number_of_columns"
+			],
+			[
+				"mov",
+				"movie_query_text"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"categor",
+				"category_selected"
+			],
+			[
+				"movie_",
+				"movie_query_text"
+			],
+			[
+				"moi",
+				"movie_query"
+			],
+			[
+				"addi",
+				"additional_query"
+			],
+			[
+				"additi",
+				"additional_queries"
+			],
+			[
+				"add",
+				"additional_queries"
+			],
+			[
+				"additio",
+				"additional_query"
+			],
+			[
+				"curren",
+				"current_year"
+			],
+			[
+				"succ",
+				"success_message"
+			],
+			[
+				"ticket",
+				"ticket_query"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"user",
+				"user_event_query"
+			],
+			[
+				"end",
+				"end_timestamp"
+			],
+			[
+				"start",
+				"start_timestamp"
+			],
+			[
+				"row",
+				"rows_per_page"
+			],
+			[
+				"new",
+				"new_password"
+			],
+			[
+				"password_er",
+				"password_verify"
+			],
+			[
+				"update",
+				"update_query"
+			],
+			[
+				"err",
+				"error_messages_initially"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/DoxyDoxygen/Doxy.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/DoxyDoxygen/Doxy.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					""
+				],
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Fortran/build-systems/GFortran.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					""
+				],
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build Run.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build Run.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Fortran Build Run.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					""
+				],
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Fortran Build.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					""
+				],
+				[
+					"Packages/Fortran/build-systems/GFortran.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				]
+			],
+			[
+				"Packages/User/Fortran Build.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				]
+			],
+			[
+				"Packages/User/Make Adam.sublime-build",
+				"clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				]
+			],
+			[
+				"Packages/User/Make Adam.sublime-build",
+				"clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Chrome.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				]
+			],
+			[
+				"Packages/User/Chrome.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Make Adam.sublime-build",
+					"clean"
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					"and Doxygen"
+				]
+			],
+			[
+				"Packages/User/sphinx.sublime-build",
+				"and Doxygen"
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sphinx.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/sphinx.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					"and Doxygen"
+				]
+			],
+			[
+				"Packages/User/sphinx.sublime-build",
+				"and Doxygen"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Fortran Build Run.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build Run.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Fortran Build Run.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Fortran Build.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Fortran Build.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageresource",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeHighlight: view as RTF"
+			],
+			[
+				"latext",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"latex",
+				"LaTeXTools: Check system"
+			],
+			[
+				"latextools",
+				"LaTeXTools: Check system"
+			],
+			[
+				"",
+				"LaTeXTools: Check system"
+			],
+			[
+				"packageresour",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/README.md",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/LaTeXTemplate/coursework3_submission.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/AbstractIntegrator.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/AbstractIntegrator.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/AbstractIntegrator.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/Driver.cpp",
+		"/C/Users/Adam/Downloads/origin-pull-ca (1).pem",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/WakaTime.sublime-settings",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa2172.19742/AbstractIntegrator.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/ClenshawCurtis.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/AbstractIntegrator.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/README.md",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/Driver.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/SimpsonRule.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/AbstractIntegrator.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/README.md",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/plotter.py",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/README.md",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/Driver.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa13324.46067/Templates/Q2/plotter.py",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/plotter.py",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/SimpsonRule.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/SimpsonRule.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/Driver2.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/ClenshawCurtis.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.23698/IntegralInterface.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.23525/Integral3.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.23354/Integral3.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.23159/Integral2.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.22959/Integral2.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.22747/Integral1.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.22577/Integral1.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.22091/AbstractIntegrator.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.21791/Integral2.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.21234/Integral1.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3712.20799/Integral1.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/AbstractIntegrator.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/DriverQ6.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/AbstractIntegrator.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/AbstractIntegrator.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/AbstractIntegrator.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/Driver.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/SimpsonRule.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/SimpsonRule.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/AbstractIntegrator.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q5/refined1.dat",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/Integral1.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/Integral3.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/Integral3.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/Integral1.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/IntegralInterface.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/README.md",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/README.md",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa14532.41019/coursework3_submission.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/test.pdf",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/Driver.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/SimpsonRule.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/IntegralInterface.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/Integral3.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/IntegralInterface.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/Integral3.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/Integral1.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/Integral1.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/Integral2.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/Integral2.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/SimpsonRule.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/SimpsonRule.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14FEM/Coursework/Coursework 2/README.md",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/LaTeXTemplate/coursework3_submission_preamble.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/LaTeXTemplate/coursework3_submission.log",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 3/G14PJS/Report Files/thesis.preamble.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 3/G14PJS/Report Files/main.tex",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3016.22465/SimpsonRule.hpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa3016.22070/AbstractIntegrator.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/refined_example.dat",
+		"/C/Users/Adam/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Adam/AppData/Roaming/Sublime Merge/Packages/User/Commit Message.sublime-settings",
+		"/C/Users/Adam/Downloads/seven-two-eight-ps-monokai-theme-cf2ab64/README.md",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q4/change_me.dat",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/Solution.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q3/Solution.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/Integral1.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/Integral2.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/Integral3.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/IntegralInterface.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q2/output3.dat",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW2/CW2.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW1/CW1.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14FEM/Coursework/Coursework 1/AdamBlakey_MATH4066_CW1.tex",
+		"/C/Users/Adam/Blakey Cloud/System information/2019-11-26.md",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa13088.9468/Integral2.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa13088.8857/Driver.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/Q1/output1.dat",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/.gitignore",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/ES3/14.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa8140.16156/Driver.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/quadrature.cpp",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DIa10672.19420/IntegralInterface.hpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/testNewFEM.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/element.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/common.cpp",
+		"/C/Users/Adam/Downloads/Classes/Vector.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/element.hpp",
+		"/C/Users/Adam/Downloads/Classes/Vector.hpp",
+		"/C/Users/Adam/Downloads/Classes/Matrix.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/documentation/Sphinx/element.rst",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/documentation/Sphinx/index.rst",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/Blakey FEM.sublime-project",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14FEM/Coursework/Coursework 2/plan.txt",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/documentation/Sphinx/conf.py",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/test3.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/test1.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/Report/references.bib",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/Report/Progress Report.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/Report/progress_report_template.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 3/G14PJS/Report Files/progress_report.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/Report/uonmathreport.cls",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/Report/main.tex",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/src/testfem.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/documentation/Sphinx/fem.rst",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa11164.33189/fem.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/.gitignore",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/srcC++/common.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/srcC++/fem.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/srcC++/interpolation.cpp",
+		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14DIS/FEM Program/files/srcC++/test2.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 244.0,
+		"where_history":
+		[
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\plugins\\the-events-calendar,C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\themes\\hestia",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\plugins\\the-events-calendar",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\plugins",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\themes\\hestia",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\Hestia",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\themes\\hestia",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\plugins\\the-events-calendar",
+			"C:\\Users\\Adam\\Blakey Cloud\\Blowsoc\\Website\\New\\wp-content\\themes\\hestia",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"m_pEstimate",
+			"errorValue",
+			"get_extrapolatedApproximation",
+			"EstimateErrorGlobal",
+			"get_extrapolatedApproximation",
+			"i*",
+			"i",
+			"get_extrapolatedApproximation",
+			"EstimateErrorGlobal",
+			"solutionValue",
+			"M",
+			"EstimateErrorGlobal()",
+			"Q4",
+			"SR and ESR",
+			"12",
+			"M2",
+			"panelLeftValue",
+			"panelLeft",
+			"refined",
+			";\n",
+			"10",
+			" M",
+			"M",
+			"Q4",
+			"ing",
+			"]",
+			"Lower",
+			"NodeRange",
+			");\n",
+			"GlobalRefinement",
+			"SRInt",
+			"errorValue",
+			"get_noNodes",
+			"1",
+			"Global refinements",
+			"SRInt",
+			"12",
+			"10",
+			"8",
+			"3*",
+			"3",
+			"false",
+			"3*",
+			"3",
+			"CompositeIntegrationRange",
+			"nonodes",
+			"np.log(",
+			"=",
+			"1",
+			"2",
+			"1",
+			"containing a selection of choices of M and the corresponding error.",
+			"Q2",
+			"* output",
+			"* Output",
+			"* output",
+			"* Output",
+			"* output",
+			"output",
+			"Q1",
+			"includegraph",
+			",",
+			"-1",
+			"end",
+			"17",
+			"SRInt1",
+			"this",
+			"()             ",
+			"8",
+			"Global refinements",
+			"-1, 0",
+			"std::endl;",
+			"end",
+			"solutionValue",
+			"Estimatep(true)",
+			"std::cout",
+			"CompositeIntegrationRange",
+			"5",
+			"output",
+			"warning",
+			"textsc",
+			"SR",
+			"SRInt",
+			"SimpsonRule",
+			"i",
+			"SimpsonRule",
+			"]\n",
+			"17",
+			"1",
+			"Left",
+			"current_h",
+			"Left",
+			"left",
+			"Left",
+			"left",
+			"(",
+			"dict",
+			"Left",
+			"left",
+			"Left",
+			"M(SR)",
+			"E(SR)",
+			"get_extrapolatedApproximation()      << std::endl;",
+			"ESR:",
+			"ESR",
+			"Error:",
+			"Value:",
+			"Value",
+			"\\",
+			"(16)",
+			"15",
+			"GlobalRefinement",
+			"true",
+			"setw",
+			"input",
+			".\n",
+			"xMin",
+			"<< \"",
+			"GlobalRefinement(true);",
+			"  S:",
+			"noPanels",
+			"nodes",
+			"m_nodes",
+			"1e-10",
+			"true",
+			"get_M",
+			"pEstimate",
+			"globalRefinement"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"beta.blowsoc.com",
+			"bear in mind",
+			"64B5F6",
+			"1976D2",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 524.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "digital-scratchmap.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
