@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"digital",
+				"digital_scratchmap_admin"
+			],
+			[
+				"digita",
+				"digital_scratchmap_admin"
+			],
+			[
+				"digital_scratchmap_regis",
+				"digital_scratchmap_register_options_page"
+			],
+			[
+				"digital_scra",
+				"digital_scratchmap_register_settings"
+			],
+			[
 				"get_extrapol",
 				"get_extrapolatedErrorValue"
 			],
@@ -498,27 +514,29 @@
 			[
 				"row",
 				"rows_per_page"
-			],
-			[
-				"new",
-				"new_password"
-			],
-			[
-				"password_er",
-				"password_verify"
-			],
-			[
-				"update",
-				"update_query"
-			],
-			[
-				"err",
-				"error_messages_initially"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "class.digital-scratchmap-admin.php",
+			"settings":
+			{
+				"buffer_size": 3917,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "digital-scratchmap.php",
+			"settings":
+			{
+				"buffer_size": 1313,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/User/Chrome.sublime-build",
 	"build_system_choices":
@@ -1334,6 +1352,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/Adam/Blakey Cloud/Adam's New Website/digital-scratchmap"
+	],
 	"file_history":
 	[
 		"/C/Users/Adam/Blakey Cloud/Documents/Education/University of Nottingham/Year 4/G14SCC/CW3/README.md",
@@ -1467,7 +1489,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -1492,6 +1514,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"my_option_name",
+			"my_option_group",
+			"digital_scratchmap_sett'",
+			"digital_scratchmap_settings'",
+			"digital_scratchmap_settings",
+			"my_option_name",
+			"id_number",
+			"setting_section_id",
+			"my-setting-admin",
+			"my_option_group",
+			"digital_scratchmap_register_settings_page",
+			"AKISMET__PLUGIN_DIR",
+			"init",
 			"m_pEstimate",
 			"errorValue",
 			"get_extrapolatedApproximation",
@@ -1606,20 +1641,7 @@
 			"GlobalRefinement",
 			"true",
 			"setw",
-			"input",
-			".\n",
-			"xMin",
-			"<< \"",
-			"GlobalRefinement(true);",
-			"  S:",
-			"noPanels",
-			"nodes",
-			"m_nodes",
-			"1e-10",
-			"true",
-			"get_M",
-			"pEstimate",
-			"globalRefinement"
+			"input"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1642,14 +1664,80 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "class.digital-scratchmap-admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2167,
+								2167
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"function_name_status_row": 79,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "digital-scratchmap.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"function_name_status_row": 19,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -1698,7 +1786,7 @@
 	"project": "digital-scratchmap.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
